@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EditTextTutorial</string>
+    <string name="hint">Put your name</string>
+    <string name="buttonText">submit</string>
+</resources>
